@@ -25,5 +25,5 @@ and for visualization i used tableau.
 below you can see the dashboard.
 
 
-![alt text](https://github.com/sahil1932001/YouTube-Analysis/blob/main/YouTube Analysis-2.pdf?raw=true)
+![dashboard_img](https://user-images.githubusercontent.com/95639758/203915035-0be338e5-69d6-4412-a706-5873de11b362.png)
 
